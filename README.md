@@ -9,12 +9,10 @@
 - TypeScript
 - Naive UI
 - Vite
-- 端口: 3000
+- 端口: 3033
 
 ### 后端
-- Golang
-- Gin 框架
-- GORM
+- Python
 - MySQL
 - 端口: 8080
 
